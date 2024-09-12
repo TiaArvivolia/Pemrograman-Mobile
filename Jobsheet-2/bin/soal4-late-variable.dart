@@ -6,5 +6,3 @@ void main() {
 
   // Variabel `name` harus diinisialisasi sebelum dipanggil, jika tidak akan menyebabkan error runtime
 }
-
-

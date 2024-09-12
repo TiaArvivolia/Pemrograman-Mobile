@@ -36,4 +36,4 @@ Berikut adalah rangkuman dari poin-poin penting yang dapat membantu proses penge
    - **Object Orientation (OOP)**: Dart menggunakan kelas untuk mendefinisikan objek, dengan fitur seperti enkapsulasi, pewarisan, komposisi, abstraksi, dan polimorfisme.
    - **Operator Dart**: Operator di Dart diimplementasikan sebagai metode dalam kelas. Contoh operator: aritmatika (+, -, *, /), kesetaraan (==, !=), dan logika (!, ||, &&).
    - **Perilaku Operator**: Operator bekerja pada tipe data numerik dan string. Operator logika bekerja pada tipe **bool**.
-   - **Type Safety**: Operator == membandingkan nilai, bukan referensi, karena Dart mendukung **type safety** secara bawaan.
+   - **Type Safety**: Operator == membandingkan nilai, bukan referensi, karena Dart mendukung .**type safety** secara bawaan.
