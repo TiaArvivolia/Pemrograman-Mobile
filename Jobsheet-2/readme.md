@@ -1,5 +1,8 @@
 # Tugas Praktikum
 
+## Soal 1: 
+![Output Soal 1](outputsoal1.png)
+
 ## Soal 2: Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter?
 
 ### Jawaban:
