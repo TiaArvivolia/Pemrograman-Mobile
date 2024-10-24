@@ -1,0 +1,26 @@
+name: uts_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - assets/healthy_food_logo.jpg
+    - assets/product1.jpeg
+    - assets/product2.jpeg
+    - assets/product3.jpeg
+    - assets/product4.jpeg
+    - assets/user.jpg
